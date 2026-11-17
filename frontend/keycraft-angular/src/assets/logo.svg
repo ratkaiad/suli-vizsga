@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+  <title>KeyCraft</title>
+  <rect x="2" y="2" width="36" height="36" rx="8" fill="none" stroke="#C97C4A" stroke-width="3"/>
+  <rect x="10.5" y="10.5" width="19" height="19" rx="4" fill="none" stroke="#C97C4A" stroke-width="1.5"/>
+  <circle cx="25" cy="25" r="2.2" fill="#C97C4A"/>
+</svg>
